@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Quickstart", "1-Quickstart", "{2ED36378-FD1C-47E7-827F-9A85DC54D9C1}"
+	ProjectSection(SolutionItems) = preProject
+		1-Quickstart\test.asm = 1-Quickstart\test.asm
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
