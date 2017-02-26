@@ -7,12 +7,19 @@ The source from my Commodore 64 assembly programming tutorial for Windows
 [2 - 6502 Microprocessor Programming Basics][2]
 
 [3 - Arithmetic's on the C64][3]
+
 [4 - Creating and Rendering Sprites][4]
+
 [5 - Clearing the screen][5]
+
 [6 - Raster Lines][6]
+
 [7 - Creating and Rendering Bitmaps][7]
+
 [8 - Text and Custom Charsets][8]
+
 [9 - Interrupts and Music][9]
+
 [10 - Multiple Interrupts][10]
 
 [logo]: https://raw.githubusercontent.com/petriw/Commodore64Programming/master/image_thumb.png "Logo Tutorial Series"
