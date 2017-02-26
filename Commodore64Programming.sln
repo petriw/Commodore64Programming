@@ -28,6 +28,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Rendering a Sprite", "4-R
 		4-Rendering a Sprite\Sprites.asm = 4-Rendering a Sprite\Sprites.asm
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-Clear Loop", "5-Clear Loop", "{C0D21DAA-42A2-40E2-B275-14E648EB23FF}"
+	ProjectSection(SolutionItems) = preProject
+		5-Clear Loop\ClearLoop.asm = 5-Clear Loop\ClearLoop.asm
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
