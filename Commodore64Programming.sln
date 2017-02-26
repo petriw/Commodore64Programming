@@ -33,6 +33,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-Clear Loop", "5-Clear Loo
 		5-Clear Loop\ClearLoop.asm = 5-Clear Loop\ClearLoop.asm
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6-Raster Lines", "6-Raster Lines", "{44B0E9EE-D73E-43D0-9FF9-550EA33DE7C3}"
+	ProjectSection(SolutionItems) = preProject
+		6-Raster Lines\RasterLines.asm = 6-Raster Lines\RasterLines.asm
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7-Bitmaps", "7-Bitmaps", "{2B4CD5D8-EBE6-4422-B7EC-B9610E8FCC46}"
+	ProjectSection(SolutionItems) = preProject
+		7-Bitmaps\Bitmaps.asm = 7-Bitmaps\Bitmaps.asm
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8-TextCharsets", "8-TextCharsets", "{93969AAD-F45E-428D-9CD8-54E697D74ACB}"
+	ProjectSection(SolutionItems) = preProject
+		8-TextCharsets\TextCharset.asm = 8-TextCharsets\TextCharset.asm
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
