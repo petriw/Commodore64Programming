@@ -28,7 +28,7 @@ setcolor:
 loop:
 	jmp loop
 
-msg	.byte "C64 programming tutorial by digitalerr0r of Dark Codex"
+msg: .byte "C64 programming tutorial by digitalerr0r of Dark Codex"
 
 	org	$1ffe
 	INCBIN	"scrap_writer_iii_17.64c"
