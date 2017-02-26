@@ -12,6 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-6502 Microprocessor Basic
 	ProjectSection(SolutionItems) = preProject
 		2-6502 Microprocessor Basics\1ScreenColor.asm = 2-6502 Microprocessor Basics\1ScreenColor.asm
 		2-6502 Microprocessor Basics\2RelativeAddressing.asm = 2-6502 Microprocessor Basics\2RelativeAddressing.asm
+		2-6502 Microprocessor Basics\3IncDecRegisters.asm = 2-6502 Microprocessor Basics\3IncDecRegisters.asm
 	EndProjectSection
 EndProject
 Global

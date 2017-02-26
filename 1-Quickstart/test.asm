@@ -1,5 +1,5 @@
 	processor	6502
-	org			$1000
+	org	$1000
 
 loop:
 	inc $d021
