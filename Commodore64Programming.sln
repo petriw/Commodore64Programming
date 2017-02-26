@@ -15,6 +15,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-6502 Microprocessor Basic
 		2-6502 Microprocessor Basics\3IncDecRegisters.asm = 2-6502 Microprocessor Basics\3IncDecRegisters.asm
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-6502 Arithmetics", "3-6502 Arithmetics", "{A2BBC865-18D7-4227-9766-E6ED15EF8F72}"
+	ProjectSection(SolutionItems) = preProject
+		3-6502 Arithmetics\1INY.asm = 3-6502 Arithmetics\1INY.asm
+		3-6502 Arithmetics\2ADCCLC.asm = 3-6502 Arithmetics\2ADCCLC.asm
+		3-6502 Arithmetics\3SBCSEC.asm = 3-6502 Arithmetics\3SBCSEC.asm
+		3-6502 Arithmetics\4ASLBitShifting.asm = 3-6502 Arithmetics\4ASLBitShifting.asm
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Rendering a Sprite", "4-Rendering a Sprite", "{05614EDE-47D0-4A8A-A137-7AF7D1348193}"
+	ProjectSection(SolutionItems) = preProject
+		4-Rendering a Sprite\Sprites.asm = 4-Rendering a Sprite\Sprites.asm
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
