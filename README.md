@@ -14,7 +14,7 @@ Compiler: DASM
 OS: Windows (I have tried all this on Windows 10 and Windows 7)
 
 
-[1 - Setup and your program!][1]
+[1 - Setup and your first program!][1]
 
 [2 - 6502 Microprocessor Programming Basics][2]
 
