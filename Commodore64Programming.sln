@@ -8,6 +8,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Quickstart", "1-Quickstar
 		1-Quickstart\test.asm = 1-Quickstart\test.asm
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-6502 Microprocessor Basics", "2-6502 Microprocessor Basics", "{DD69C951-1EC8-4856-895D-EBB23BC74950}"
+	ProjectSection(SolutionItems) = preProject
+		2-6502 Microprocessor Basics\1ScreenColor.asm = 2-6502 Microprocessor Basics\1ScreenColor.asm
+		2-6502 Microprocessor Basics\2RelativeAddressing.asm = 2-6502 Microprocessor Basics\2RelativeAddressing.asm
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
