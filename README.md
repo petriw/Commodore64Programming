@@ -7,6 +7,8 @@ This repo contains the source from my Commodore 64 assembly programming tutorial
 ### Introduction
 Welcome to the Commodore 64 Programming on Windows tutorial! This tutorial will get you up and running with the tools needed to build C64 programs on windows, and teach you(tm) the basics of 6502 microprocessor programming using assembly. I will show you how to create graphics and how to render them on the screen, how to play music, and the many limitations and considerations needed to develop a proper C64 program. Remember, this is an old machine so you might have to think about things you normally didn't - if you are a graphics developer (DirectX, OpenGL, Unity, Unreal, ...), you might be able to learn why some things are they way they are.
 
+Disclaimer: I'm no expert, use the informations here as you like.
+
 Language: Assembly
 
 Compiler: DASM
