@@ -13,8 +13,7 @@ Language: Assembly
 
 Compiler: DASM
 
-OS: Windows (I have tried all this on Windows 10 and Windows 7)
-
+OS: Windows (I have tried all this on Windows 10 and Windows. Also Mac OSX users can follow the material as well by downloading DASM via [homebrew](https://brew.sh) and running `brew install dasm`
 
 [1 - Setup and your first program!][1]
 
